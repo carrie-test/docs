@@ -18,7 +18,7 @@ Find channels
   :target: https://mattermost.com/deploy
   :alt: Available for Mattermost Self-Hosted deployments.
 
-To see all available public channels you can join, select the **+** icon at the top of the channel sidebar, then select **Browse Channels**. Search for channels by name or scroll through the list. Select **Join** next to any channel to become a member of that channel.
+To see all available public channels you can join, select the **+** icon at the top of the channel sidebar, then select **Browse Channels**. Search for channels by name or scroll through the list. Select **Join** next to any channel to become a member of that channel. test
 
 .. tip:: 
     Select **Find Channel** in the channel sidebar to see all of the channels you're currently a member of across all of your teams, including public and private channels, as well as all direct and group messages.
